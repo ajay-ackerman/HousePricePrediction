@@ -1,0 +1,14 @@
+Model outputs
+
+DECISION TREE :
+    mean : 0.37521324762621033
+    strandard deviation :  0.1937493207564792
+
+
+LINEAR REGRESSION :
+    mean : 6.918493017188975e-14
+    strandard deviation :  3.310290789505178e-14
+
+RANDOM FOREST REGRESSION :
+    mean : 0.2110933656223108
+    strandard deviation :  0.11013155360750464
